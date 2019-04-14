@@ -1,0 +1,5 @@
+{:install-deps true
+ :main filter-sparql-reduced.core
+ :npm-deps {:sparqljs "2.2.3"}
+ :output-to "out/filter_sparql_reduced.js"
+ :target :nodejs}
